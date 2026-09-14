@@ -1,0 +1,8 @@
+streamlit
+supabase
+openai
+pandas
+python-dotenv
+apscheduler
+requests
+pytz
